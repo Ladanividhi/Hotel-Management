@@ -41,11 +41,11 @@ After compilation, run the executable:
 
 
 ## 💡 Usage
--Launch the program
--Choose a table number
--Add menu items to the order
--View the total bill at any point
--Follow the on-screen instructions for further operations
+- Launch the program  
+- Choose a table number  
+- Add menu items to the order  
+- View the total bill at any point  
+- Follow the on-screen instructions for further operations
 
 
 ## 📌 Closing Remarks
