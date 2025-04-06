@@ -22,7 +22,7 @@ The system is available in two programming languages:
 - Basic understanding of command-line operations
 
 
-### Compilation Instructions
+## Compilation Instructions
 **For C++ version:**
 g++ C++_Code.cpp -o hotel_management_cpp
 
@@ -30,7 +30,7 @@ g++ C++_Code.cpp -o hotel_management_cpp
 g++ C_Code.cpp -o hotel_management_c
 
 
-### Running the Program
+## Running the Program
 After compilation, run the executable:
 
 **For C++ version:**
@@ -40,7 +40,7 @@ After compilation, run the executable:
 ./hotel_management_c
 
 
-### 💡 Usage
+## 💡 Usage
 -Launch the program
 -Choose a table number
 -Add menu items to the order
@@ -48,7 +48,7 @@ After compilation, run the executable:
 -Follow the on-screen instructions for further operations
 
 
-## ✅ Conclusion
+## 📌 Closing Remarks
 This Hotel Management System offers a simple and practical solution for managing food orders, tables, and billing in a hotel or restaurant setting.  
 Whether you're learning C/C++ or exploring how basic systems operate behind the scenes, this project serves as a great starting point.  
 Feel free to modify, enhance, or contribute to make it even better!
